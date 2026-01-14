@@ -5,6 +5,7 @@
 ![UI](https://img.shields.io/badge/UI-ttkbootstrap-orange)
 
 一款基于 Python 开发的现代化书签管理工具，支持 **Microsoft Edge** 和 **Google Chrome** 之间的书签双向互导。拥有美观的图形界面，支持自动备份与智能清理，让跨浏览器书签同步变得简单安全。
+A modern bookmark management tool developed based on Python, supporting bidirectional bookmark exchange between Microsoft Edge and Google Chrome. Having a beautiful graphical interface, supporting automatic backup and intelligent cleaning, making cross browser bookmark synchronization simple and secure.
 
 ## ✨ 主要功能 (Features)
 
